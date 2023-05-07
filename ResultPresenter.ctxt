@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ResultPresenter
+comment1.params=st
+comment1.target=ResultPresenter(java.util.Stack)
+comment2.params=
+comment2.target=void\ operate()
+numComments=3

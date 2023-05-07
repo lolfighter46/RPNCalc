@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CalculatorGui
+comment1.params=op2\ add2\ sub2\ mult\ div2\ rp2
+comment1.target=CalculatorGui(Operand,\ Adder,\ Subtracter,\ Multiplier,\ Divider,\ ResultPresenter)
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Operand
+comment1.params=digit
+comment1.target=void\ addDigit(char)
+comment2.params=
+comment2.target=void\ deleteLastDigit()
+comment3.params=st
+comment3.target=Operand(java.util.Stack)
+comment4.params=
+comment4.target=void\ complete()
+comment5.params=
+comment5.target=void\ reset()
+numComments=6
